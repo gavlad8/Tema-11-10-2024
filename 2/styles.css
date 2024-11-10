@@ -1,0 +1,80 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 20px;
+    padding: 0;
+}
+
+
+#cover-page {
+    text-align: center;
+    padding: 30px;
+    background-color: #222;
+    color: #fff;
+    border-radius: 10px;
+}
+
+#catalog-title {
+    font-size: 2.5em;
+    color: #ffcc00; 
+    margin-bottom: 15px;
+}
+
+.cover-image {
+    width: 200px;
+    height: auto;
+    border-radius: 15px;
+    margin: 20px auto;
+    display: block;
+    opacity: 0.9;
+}
+
+
+.profile-page {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    margin: 10px 0;
+}
+
+
+a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
